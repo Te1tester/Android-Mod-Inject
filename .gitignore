@@ -10,6 +10,9 @@
 # Java class files
 *.class
 
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
+
 # Generated files
 bin/
 gen/
