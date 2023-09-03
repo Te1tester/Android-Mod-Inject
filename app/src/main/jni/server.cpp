@@ -16,7 +16,7 @@
 #include "KittyMemory/MemoryPatch.h"
 
 //Target lib here
-#define targetLibName OBFUSCATE("libFileA.so")
+#define targetLibName OBFUSCATE("libil2cpp.so")
 
 #include "Includes/Macros.h"
 
